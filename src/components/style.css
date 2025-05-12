@@ -1,0 +1,21 @@
+.verde {
+  background-color: #283734;
+  display: 'flex';
+  justify-content: center;
+  align-items: center;
+}
+
+.botao {
+    background-color: #283734 !important;
+}
+.botao:hover {
+    background-color: #46625d !important;
+}
+
+.icone {
+    color: #ebbe18 !important;
+    background-color: #283734d2 !important;
+}
+.iconelucid {
+    color: #ebbe18 !important;
+}
